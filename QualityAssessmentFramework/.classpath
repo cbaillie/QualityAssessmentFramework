@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/chrisbaillie/Documents/workspace/Libs/jena-2.6.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chrisbaillie/Documents/workspace/Libs/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/Users/chrisbaillie/Documents/workspace/Libs/xercesImpl-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chrisbaillie/Documents/workspace/Libs/iri-0.8.jar"/>
+	<classpathentry kind="lib" path="/Users/chrisbaillie/Documents/workspace/Libs/icu4j-3.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chrisbaillie/Documents/workspace/Libs/spin-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chrisbaillie/Documents/workspace/Libs/spin-base-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chrisbaillie/Documents/workspace/Libs/fuseki-server-0.2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/chrisbaillie/Documents/workspace/Libs/arq-2.8.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
