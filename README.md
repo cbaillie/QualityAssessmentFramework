@@ -21,3 +21,7 @@ Reasoner : Class that performs reasoning using a SPIN Reasoner (http://www.spinr
 uk.ac.dotrural.reasoning.sparql
          : Collection of classes for sending SPARQL queries and updates
 
+
+Licence
+
+Licensed under the Lesser General Public Licence (LGPL) Version 2.1 (http://www.gnu.org/licenses/lgpl-2.1.html)
